@@ -24,11 +24,3 @@ print(ds)
   "text": "Extracted text from the page..."
 }
 ```
-
-## Repository Structure
-.
-├── process_pdfs.py       # PDF → JSONL pipeline
-├── upload_to_hf.py       # Upload dataset to Hugging Face
-├── data/
-│   └── pages.jsonl       # Processed dataset
-└── README.md
