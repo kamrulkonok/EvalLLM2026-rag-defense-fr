@@ -1,0 +1,9 @@
+datasets
+pandas
+numpy
+rank-bm25
+sentence-transformers
+faiss-cpu
+tqdm
+transformers
+torch
